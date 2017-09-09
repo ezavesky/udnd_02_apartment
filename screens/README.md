@@ -1,0 +1,8 @@
+![Overview of apartment](all_far.jpg)
+![FPS sample, although typically 60fps](fps.jpg)
+![Kitchen closeup](kitch_close.jpg)
+![Kitchen closeup 2](kitchen_close2.jpg)
+![Recreation area closeup](rec_close.jpg)
+![Work area closeup](work_close.jpg)
+![Work area closeup of cat](work_close_cat.jpg)
+![Work area far shot](work_far.jpg)

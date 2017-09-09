@@ -1,7 +1,9 @@
 # udnd_02_apartment
 udnd Apartment Customization - August 2017
 
-![Example arrangement](screenshot.png "Example arrangement of apartment")
+![Apartment/studio overview](screens/all_far.jpg "Example arrangement of apartment")
+![Gratuitous work cat](screens/work_close_cat.jpg "Gratuitous work cat")
+![Gratuitous play tiger](screens/rec_close.jpg "Gratuitous play tiger")
 
 ## Project Contents
 Quick description of contents within this repo.
@@ -9,10 +11,10 @@ Quick description of contents within this repo.
 * Assets - assets including GoogleVR SDK clips for project
 * ProjectSettings - project settings for builds
 * .gitignore - ignore file based on Unity footprint
-* Build.zip - compressed build and package
+* build.zip - compressed build for Android
 * LICENSE - current license
 * README.md - this file
-* screenshot.png - running modification from mobile device
+* screens/*.jpg - examples of screenshots within app
 
 ### Customizations
 In building the apartement, a few steps were taken to go above just what
@@ -23,6 +25,7 @@ was in the build requirements.
 * Area spot lights for under-counter interaction
 * A number of textured "posters" to enhance the wallspace
 * A few animation on objects and "cats" to play with 
+* "Soothing" music background for a design studio
 
 **NOTE**: Because there is no rectile associated with the current GVR viewer,
 all clicks will toggle the globe spin on and off.
