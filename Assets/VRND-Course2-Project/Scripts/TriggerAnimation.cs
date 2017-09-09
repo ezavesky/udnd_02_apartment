@@ -6,14 +6,14 @@ public class TriggerAnimation : MonoBehaviour {
     public Animator stateMachine;
 
     private bool created = false;
-
-    void Awake() {
+	/*
+	void Awake() {
         if (GvrViewer.Instance == null) {
             GvrViewer.Create();
             created = true;
         }
     }
-
+	*/
     void Start() {
         if (created) {
             foreach (Camera c in GvrViewer.Instance.GetComponentsInChildren<Camera>()) {
