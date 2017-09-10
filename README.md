@@ -77,5 +77,6 @@ A few extra assets were used in the creation of this project.  A best effort att
 * [Lowpoly Toon Cat](https://www.assetstore.unity3d.com/en/#!/content/66083)
 * [Golden Tiger](https://www.assetstore.unity3d.com/en/#!/content/55797)
 * [ambient music](https://soundcloud.com/kait-con-botas/3-hours-relaxing-music-yoga-background-meditation-spa-massage-sleep-study1)
+* [static object detect](http://spreys.com/unity-how-to-quickly-identify-static-objects/)
 * (various internet sources for movie posters)
 
